@@ -1,0 +1,9 @@
+G:\C#Project\AdafyOy\Harjoitus1\Harjoitus1\bin\Harjoitus1.dll.config
+G:\C#Project\AdafyOy\Harjoitus1\Harjoitus1\bin\Harjoitus1.dll
+G:\C#Project\AdafyOy\Harjoitus1\Harjoitus1\bin\Harjoitus1.pdb
+G:\C#Project\AdafyOy\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.csprojResolveAssemblyReference.cache
+G:\C#Project\AdafyOy\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.dll
+G:\C#Project\AdafyOy\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.pdb
+G:\C#Project\AdafyOy\Harjoitus1\Harjoitus1\bin\Content\matches.json
+G:\C#Project\AdafyOy\Harjoitus1\Harjoitus1\bin\Newtonsoft.Json.dll
+G:\C#Project\AdafyOy\Harjoitus1\Harjoitus1\bin\Newtonsoft.Json.xml
