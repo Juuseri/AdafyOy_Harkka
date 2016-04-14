@@ -1,1 +1,1 @@
-# AdafyOy_Harkka
+# Juuso Tenhunen: Adafy Oyn Harjoitustehtävä
